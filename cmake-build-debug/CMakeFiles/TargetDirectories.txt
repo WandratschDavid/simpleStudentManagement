@@ -1,0 +1,3 @@
+D:/Schuljahr 2020_21/SEW/Exercises/simpleStudentManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Schuljahr 2020_21/SEW/Exercises/simpleStudentManagement/cmake-build-debug/CMakeFiles/simpleStudentManagement.dir
+D:/Schuljahr 2020_21/SEW/Exercises/simpleStudentManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
